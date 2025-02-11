@@ -53,8 +53,7 @@ Site Oficial: https://www.lftgestaoderisco.com.br/
 Instagram: https://www.instagram.com/lftgestaoderisco/
 Linktree: https://linktr.ee/grupolft
 Youtube: https://www.youtube.com/@lftgestaoderisco
-Google Maps: Atualize com a URL correta da localização (ex: Google Maps)
-Desenvolvedor
+
 Desenvolvido por Thiago Marques
 Desenvolvedor Fullstack Java & Marketing
 LFT Gestão de Risco e Planejamento Financeiro
