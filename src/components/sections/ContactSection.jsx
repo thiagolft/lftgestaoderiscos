@@ -19,7 +19,7 @@ const ContactSection = ({ handleWhatsAppClick, handleInstagramClick, handleSched
         switch (type) {
             case 'whatsapp': handleWhatsAppClick(); break;
             case 'email': window.open('mailto:grupolft@hotmail.com'); break;
-            case 'instagram': handleInstagramClick(); break;
+            case 'instagram': window.open('https://www.instagram.com/lftgestaoderisco/'); break;
             case 'map': handleMapClick(); break;
             default: break;
         }
