@@ -17,7 +17,7 @@ const Header = ({ isMenuOpen, setIsMenuOpen, activeSection, scrollToSection, han
             transition={{ duration: 0.5 }}
           >
             <img 
-              src="https://i.imgur.com/8L91v1L.png" 
+              src="https://i.imgur.com/JgSqFnl_d.png?maxwidth=520&shape=thumb&fidelity=high" 
               alt="LFT Logo" 
               className="h-14 w-auto cursor-pointer"
               onClick={() => scrollToSection('home')}
