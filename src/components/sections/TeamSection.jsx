@@ -2,9 +2,15 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 const teamMembers = [
-    { name: "Lucas Teixeira", role: "Área Comercial", image: "https://i.imgur.com/PyQ4HJV.png", description: "Especialista em relacionamento com clientes e desenvolvimento de soluções personalizadas." },
-    { name: "Eduardo Venâncio", role: "Área Comercial", image: "https://i.imgur.com/cmKafzo.png", description: "Consultor experiente em planejamento financeiro e gestão de riscos familiares." },
-    { name: "Vanessa Fernandes", role: "Área Comercial", image: "https://i.imgur.com/vlrRYUF.png", description: "Especialista em proteção familiar e consultoria em seguros de vida personalizados." }
+    { name: "Lucas Teixeira", role: "Área Comercial", image: "https://i.imgur.com/PyQ4HJV.png"},
+    { name: "Eduardo Venâncio", role: "Área Comercial", image: "https://i.imgur.com/cmKafzo.png"},
+    { name: "Vanessa Fernandes", role: "Área Comercial", image: "https://i.imgur.com/vlrRYUF.png"},
+    { name: "Juliana Urgal", role: "Área Comercial", image: "https://i.imgur.com/18mtOCZ.jpeg"},
+    { name: "Maria Rangel", role: "Área Comercial", image: "https://i.imgur.com/v9LFAOy.jpeg"},
+    { name: "Adriana Ferraz", role: "Administrativo", image: "https://i.imgur.com/CaY2uMI.jpeg"},
+    { name: "Karina Ignacio", role: "Administrativo", image: "https://i.imgur.com/ySM0ZkS.png"},
+    { name: "Natália Dutra", role: "Administrativo", image: "https://i.imgur.com/gaBO2PX.png"},
+    { name: "Thiago Marques", role: "Marketing", image: "https://i.imgur.com/eGw4piu.png"}
 ];
 
 const TeamSection = () => {
