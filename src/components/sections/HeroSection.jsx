@@ -42,12 +42,11 @@ const HeroSection = ({ scrollToSection, handleWhatsAppClick }) => {
               Entre em contato
             </Button>
             <Button 
-              onClick={() => scrollToSection('sobre')}
+              onClick={() => window.location.href = 'https://chatbot-lft.vercel.app/'}
               variant="outline"
               className="border-2 border-cyan-400 text-cyan-400 hover:bg-cyan-400 hover:text-navy px-8 py-4 rounded-full font-semibold text-lg transition-all duration-300 transform hover:scale-105 flex items-center gap-2"
             >
-              Ver serviços
-              <ArrowRight size={20} />
+              Chat online 💬
             </Button>
           </motion.div>
         </motion.div>
