@@ -53,7 +53,7 @@ function App() {
   };
 
   const handleScheduleClick = () => {
-    window.open('https://agenda-com-cliente.vercel.app/', '_blank');
+    window.open('https://www.lftgestaoderisco.com.br/agenda', '_blank');
   };
 
   const handleInstagramClick = () => {
