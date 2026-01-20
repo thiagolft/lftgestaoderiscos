@@ -55,7 +55,7 @@ function Footer() {
                 <Facebook className="w-5 h-5" />
               </a>
               <a
-                href="#"
+                href="https://www.linkedin.com/company/lft-gest%C3%A3o-de-risco-planejamento-financeiro/?viewAsMember=true"
                 className="w-10 h-10 bg-white/10 rounded-full flex items-center justify-center hover:bg-accent transition-colors duration-200"
                 aria-label="LinkedIn"
               >
@@ -84,5 +84,6 @@ function Footer() {
     </footer>
   );
 }
+
 
 export default Footer;
